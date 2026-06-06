@@ -1,0 +1,11 @@
+<div class="profile-top">
+  <div class="profile-text">
+    {{ .Inner | markdownify }}
+  </div>
+
+  <img
+    src="{{ .Get "image" }}"
+    alt="{{ .Get "alt" }}"
+    class="person-photo"
+  >
+</div>

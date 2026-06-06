@@ -1,0 +1,21 @@
+{{- $title := .Get "title" -}}
+{{- $url := .Get "url" -}}
+{{- $journal := .Get "journal" -}}
+
+<div class="paper-note">
+  <div class="paper-title">
+    {{- if $url -}}
+      <span style="font-size:16px"><a href="{{ $url }}" target="_blank" rel="noopener">{{ $title }}</a></span>
+    {{- else -}}
+      {{ $title }}
+    {{- end -}}
+  </div>
+
+  {{- if $journal }}
+  <div class="paper-journal">{{ $journal }}</div>
+  {{- end }}
+
+  <div class="paper-comment">
+    {{ .InnerDeindent | markdownify }}
+  </div>
+</div>

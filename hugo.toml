@@ -1,0 +1,77 @@
+baseURL = "https://gmeric.github.io/"
+title = "Méric Lab"
+theme = "PaperMod"
+
+defaultContentLanguage = "en"
+locale = "en-GB"
+enableRobotsTXT = true
+enableEmoji = true
+
+[pagination]
+pagerSize = 10
+
+[params]
+env = "development"
+title = "Méric Lab"
+description = "Microbiome(s) and population health | Host-microbe & pathogen genomics"
+author = "Guillaume Méric"
+DateFormat = "2 January 2006"
+
+defaultTheme = "light"
+disableThemeToggle = false
+
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = true
+ShowWordCount = false
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+showtoc = false
+tocopen = false
+hideSummary = false
+
+[params.homeInfoParams]
+Title = "Méric Lab"
+Content = "Microbiome(s) and population health | Host-microbe & pathogen genomics."
+
+[menu]
+
+  [[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 10
+
+  [[menu.main]]
+  identifier = "people"
+  name = "People"
+  url = "/people/"
+  weight = 20
+
+  [[menu.main]]
+  identifier = "research"
+  name = "Research"
+  url = "/research/"
+  weight = 30
+
+  [[menu.main]]
+  identifier = "publications"
+  name = "Publications"
+  url = "/publications/"
+  weight = 40
+
+  [[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 50
+
+[markup]
+
+  [markup.goldmark.renderer]
+  unsafe = true
+
+  [markup.highlight]
+  noClasses = false

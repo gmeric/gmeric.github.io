@@ -1,0 +1,15 @@
+{{- $doi := .Get "doi" -}}
+
+<div class="publication-entry">
+  <div class="publication-text">
+    {{ .InnerDeindent | markdownify }}
+  </div>
+
+  <div class="publication-metrics">
+    <div
+      class="altmetric-embed"
+      data-badge-type="donut"
+      data-doi="{{ $doi }}">
+    </div>
+  </div>
+</div>
