@@ -361,3 +361,76 @@ body {
   margin: 0;
   line-height: 1.45;
 }
+
+/* Mobile homepage fix */
+@media screen and (max-width: 850px) {
+  .home-page {
+    max-width: 100%;
+    padding: 0 1rem;
+  }
+
+  .home-hero {
+    display: block !important;
+    grid-template-columns: none !important;
+    margin-top: 2rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .home-hero-text {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .home-hero-text h1,
+  .home-hero-text h2,
+  .home-subtitle,
+  .home-hero-text p {
+    max-width: 100%;
+    overflow-wrap: normal;
+    word-break: normal;
+  }
+
+  .home-hero-text h1 {
+    font-size: 2rem;
+    line-height: 1.15;
+  }
+
+  .home-subtitle {
+    font-size: 1rem;
+    line-height: 1.4;
+  }
+
+  .home-hero-image {
+    margin-top: 2rem;
+  }
+
+  .home-hero-image img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .home-affiliations {
+    margin-top: 2rem;
+  }
+
+  .logo-row {
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 1.2rem;
+  }
+
+  .logo-partners {
+    margin-left: 0;
+  }
+
+  .logo-bath img {
+    max-height: 55px;
+    max-width: 180px;
+  }
+
+  .logo-partners img {
+    max-height: 70px;
+    max-width: 100%;
+  }
+}
