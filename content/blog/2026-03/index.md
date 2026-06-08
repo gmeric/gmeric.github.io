@@ -1,5 +1,5 @@
 +++
-title = "Mar 2026 reading list: sleep, commercial testing kit variation & MR guidelines"
+title = "Sleep, commercial testing kit variation & MR guidelines (reading list)"
 date = "2026-03-26T09:00:00+01:00"
 draft = false
 categories = ["Reading lists"]

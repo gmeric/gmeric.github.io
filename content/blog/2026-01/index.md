@@ -1,5 +1,5 @@
 +++
-title = "Jan 2026 reading list: baby microbiome, oral microbiome GWAS & Archaea"
+title = "Baby microbiome, oral microbiome GWAS & Archaea (reading list)"
 date = "2026-02-05T09:00:00+01:00"
 draft = false
 categories = ["Reading lists"]

@@ -1,5 +1,5 @@
 +++
-title = "May 2026 reading list: PD, CAZyme typing, GLP1 GWAS & CVD PGS"
+title = "PD, CAZyme typing, GLP1 GWAS & CVD PGS (reading list)"
 date = "2026-05-09T09:00:00+01:00"
 draft = false
 categories = ["Reading lists"]

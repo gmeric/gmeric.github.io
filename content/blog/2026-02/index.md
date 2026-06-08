@@ -1,5 +1,5 @@
 +++
-title = "Feb 2026 reading list: collagenase, South Asian cohorts, & ICI FMT trials"
+title = "Collagenase, South Asian cohorts, & ICI FMT trials (reading list)"
 date = "2026-02-14T09:00:00+01:00"
 draft = false
 categories = ["Reading lists"]
