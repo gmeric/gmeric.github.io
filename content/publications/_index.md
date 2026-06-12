@@ -164,6 +164,13 @@ Kittiwan N, Calland JK, <u>Mourkas E</u>, Hitchings MD, Murray S, Tadee P, Tadee
 **_DOI_**: [`10.1099/mgen.0.000882`](https://doi.org/10.1099/mgen.0.000882)
 {{< /publication >}}
 
+{{< publication doi="10.1101/2021.03.15.435406 ">}}
+<span style="font-size:17px">**A two-hit epistasis model prevents core genome disharmony in recombining bacteria.**</span><br>
+Taylor AJ*, <u>Meric G*</u>, Yahara K, Pascoe B, <u>Mageiros L</u>, <u>Mourkas E</u>, Calland JK, Puranen S, Hitchings MD, Jolley KA, Kabros CM, Williams NJ, van Vliet AHM, Parkhill J, Maiden MCJ, Corander J, Hurst LD, Falush D, Didelot X, Kelly DJ, Sheppard SK.<br>
+<span style="background-color: lightsteelblue;">**bioRxiv**</span>, 10 May 2022.  
+**_DOI_**: [`10.1101/2021.03.15.435406 `](https://doi.org/10.1101/2021.03.15.435406 )
+{{< /publication >}}
+
 {{< publication doi="10.1128/spectrum.02473-22">}}
 <span style="font-size:17px">**Spatiotemporal investigation of antibiotic resistance in the urban water cycle influenced by environmental and anthropogenic activity.**</span><br>
 Tucker K, Mageiros L, Carstens A, Bröcker L, Archer E, Smith K, Mourkas E, Pascoe B, Nel D, <u>Méric G</u>, Sheppard SK, Kasprzyk-Hordern B, Botes M, Feil EJ, Wolfaardt G<br>

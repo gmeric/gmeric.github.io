@@ -63,10 +63,16 @@ Content = "Microbiome(s) and population health | Host-microbe & pathogen genomic
   weight = 40
 
   [[menu.main]]
+  identifier = "collaborations"
+  name = "Collaborations"
+  url = "/collaborations/"
+  weight = 50
+
+  [[menu.main]]
   identifier = "contact"
   name = "Contact"
   url = "/contact/"
-  weight = 50
+  weight = 60
 
 [markup]
 
