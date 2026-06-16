@@ -1,0 +1,15 @@
+["Reading lists"]
+label = "Reading lists"
+icon = "/images/blog-categories/reading-lists.png"
+
+["General updates"]
+label = "General updates"
+icon = "/images/blog-categories/general-updates.png"
+
+["New publication"]
+label = "New publication"
+icon = "/images/blog-categories/new-publication.png"
+
+["Commentary/thoughts"]
+label = "Commentary/thoughts"
+icon = "/images/blog-categories/commentary-thoughts.png"

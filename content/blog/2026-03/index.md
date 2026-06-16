@@ -5,7 +5,6 @@ draft = false
 categories = ["Reading lists"]
 tags = ["microbiome", "gut-microbiome", "microbiota", "bacteria", "health", "nutrition", "probiotics"]
 series = ["Noteworthy from the blue skies"]
-
 aliases = ["/2026/05/09/2026-05/"]
 
 ShowReadingTime = true

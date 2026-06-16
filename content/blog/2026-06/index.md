@@ -4,8 +4,7 @@ date = "2026-06-10T09:00:00+01:00"
 draft = false
 categories = ["Reading lists"]
 tags = ["microbiome", "gut-microbiome", "microbiota", "bacteria", "health", "nutrition"]
-series = ["Reading list"]
-
+series = ["Reading list"] 
 ShowReadingTime = true
 ShowPostNavLinks = true
 showToc = true

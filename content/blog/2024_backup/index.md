@@ -2,10 +2,9 @@
 title = "Entire 2024 reading list backed up from previous blog"
 date = "2024-08-31T09:00:00+01:00"
 draft = false
-categories = ["Reading lists"]
 tags = ["microbiome", "gut-microbiome", "microbiota", "bacteria", "health", "nutrition", "probiotics"]
 series = ["Noteworthy from the blue skies"]
-
+categories = ["Reading lists"]
 aliases = ["/2026/05/09/2026-01/"]
 
 ShowReadingTime = true
