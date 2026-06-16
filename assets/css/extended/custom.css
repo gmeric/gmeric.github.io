@@ -532,3 +532,57 @@ body {
     font-size: 0.85rem;
   }
 }
+
+/* Dark mode: keep affiliation logos readable */
+body.dark .logo-row,
+[data-theme="dark"] .logo-row {
+  background: #ffffff;
+  padding: 1.2rem 1.5rem;
+  border-radius: 12px;
+}
+
+body.dark .logo-row img,
+[data-theme="dark"] .logo-row img {
+  filter: none;
+}
+
+/* Make inline journal highlights readable in both light and dark mode */
+span[style*="background-color: lightyellow"],
+span[style*="background-color:lightyellow"],
+span[style*="background-color: lightsteelblue"],
+span[style*="background-color:lightsteelblue"] {
+  color: #111111 !important;
+  padding: 0 0.15rem;
+  border-radius: 3px;
+}
+
+span[style*="background-color: lightyellow"] *,
+span[style*="background-color:lightyellow"] *,
+span[style*="background-color: lightsteelblue"] *,
+span[style*="background-color:lightsteelblue"] * {
+  color: #111111 !important;
+}
+
+/* Dark mode: give Altmetric badges a neat light circular background */
+body.dark .publication-metrics,
+[data-theme="dark"] .publication-metrics {
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+body.dark .publication-metrics .altmetric-embed,
+[data-theme="dark"] .publication-metrics .altmetric-embed {
+  background: #ffffff;
+  width: 70px;
+  height: 70px;
+  padding: 10px;
+  border-radius: 50%;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
