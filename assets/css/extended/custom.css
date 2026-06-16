@@ -546,25 +546,41 @@ body.dark .logo-row img,
   filter: none;
 }
 
-/* Make inline journal highlights readable in both light and dark mode */
+/* Make inline journal highlights readable in both light and dark mode.
+   Live Hugo minification may convert colour names to hex, so match both. */
+
 span[style*="lightyellow" i],
-span[style*="lightsteelblue" i] {
+span[style*="#ffffe0" i],
+span[style*="rgb(255, 255, 224)" i],
+span[style*="lightsteelblue" i],
+span[style*="#b0c4de" i],
+span[style*="rgb(176, 196, 222)" i] {
   color: #111111 !important;
   padding: 0 0.15rem;
   border-radius: 3px;
 }
 
-/* Force anything inside the highlighted span to inherit the dark text */
 span[style*="lightyellow" i] *,
-span[style*="lightsteelblue" i] * {
+span[style*="#ffffe0" i] *,
+span[style*="rgb(255, 255, 224)" i] *,
+span[style*="lightsteelblue" i] *,
+span[style*="#b0c4de" i] *,
+span[style*="rgb(176, 196, 222)" i] * {
   color: #111111 !important;
 }
 
-/* If the highlighted journal is also a link, keep it dark too */
 a span[style*="lightyellow" i],
+a span[style*="#ffffe0" i],
+a span[style*="rgb(255, 255, 224)" i],
 a span[style*="lightsteelblue" i],
+a span[style*="#b0c4de" i],
+a span[style*="rgb(176, 196, 222)" i],
 span[style*="lightyellow" i] a,
-span[style*="lightsteelblue" i] a {
+span[style*="#ffffe0" i] a,
+span[style*="rgb(255, 255, 224)" i] a,
+span[style*="lightsteelblue" i] a,
+span[style*="#b0c4de" i] a,
+span[style*="rgb(176, 196, 222)" i] a {
   color: #111111 !important;
 }
 
