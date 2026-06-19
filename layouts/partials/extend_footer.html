@@ -1,0 +1,14 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const menu = document.querySelector("#menu");
+    const toggle = document.querySelector(".logo-switches");
+
+    if (!menu || !toggle) return;
+
+    const item = document.createElement("li");
+    item.className = "menu-theme-toggle";
+
+    item.appendChild(toggle);
+    menu.appendChild(item);
+  });
+</script>

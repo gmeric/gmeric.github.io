@@ -401,7 +401,7 @@ body {
   }
 
   .home-hero-image {
-    margin-top: 2rem;
+    margin-top: 1rem;
   }
 
   .home-hero-image img {
@@ -606,4 +606,196 @@ body.dark .publication-metrics .altmetric-embed,
   align-items: center;
   justify-content: center;
   box-sizing: border-box;
+}
+
+/* ----------------------------- */
+/* Animated Méric Lab logo       */
+/* compact same-canvas SVG layer */
+/* ----------------------------- */
+
+/* Give the header room so the animation is not clipped at the top */
+.header,
+.nav {
+  overflow: visible;
+}
+
+.header {
+  padding-top: 1.6rem;
+  overflow: visible;
+}
+
+.nav {
+  min-height: 105px;
+  align-items: flex-start;
+  padding-top: 14px;
+  overflow: visible;
+}
+
+/* Main logo container */
+.logo {
+
+  /* Keep same SVG ratio: height ≈ width × 0.287 */
+  --swarm-w: 390px;
+  --swarm-h: 112px;
+
+  /* Move the swarm relative to the black box */
+  --swarm-x: 82px;
+  --swarm-y: -28px;
+
+  position: relative;
+  overflow: visible;
+  flex-shrink: 0;
+  z-index: 40;
+}
+
+.logo > a {
+  position: relative;
+  z-index: 10;
+  display: inline-flex;
+  align-items: center;
+  width: auto;
+  height: auto;
+  padding: 0;
+  background: transparent;
+  color: var(--primary) !important;
+  border-radius: 0;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  overflow: visible;
+}
+
+.logo > a:hover {
+  text-decoration: none;
+}
+
+/* All three SVG layers share identical geometry */
+.logo::before,
+.logo::after,
+.logo > a::after {
+  content: "";
+  position: absolute;
+  left: var(--swarm-x);
+  top: var(--swarm-y);
+  width: var(--swarm-w);
+  height: var(--swarm-h);
+  pointer-events: none;
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: 100% 100%;
+  opacity: 0;
+  transform-origin: 0% 55%;
+  transition:
+    opacity 0.25s ease,
+    transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Put the swarm ABOVE the black box */
+.logo::before {
+  z-index: 14;
+  background-image: url("/images/logos/swarm-large.svg");
+  transform: translate(-105px, 20px) scale(0.12) rotate(-5deg);
+}
+
+.logo::after {
+  z-index: 13;
+  background-image: url("/images/logos/swarm-small-near.svg");
+  transform: translate(-112px, 22px) scale(0.10) rotate(5deg);
+}
+
+.logo > a::after {
+  z-index: 12;
+  background-image: url("/images/logos/swarm-small-far.svg");
+  transform: translate(-120px, 24px) scale(0.08) rotate(9deg);
+}
+
+/* Hover/focus: unfold into aligned final artwork */
+.logo:hover::before,
+.logo:focus-within::before {
+  opacity: 1;
+  transform: translate(0, 0) scale(1) rotate(0deg);
+}
+
+.logo:hover::after,
+.logo:focus-within::after {
+  opacity: 1;
+  transform: translate(0, 0) scale(1) rotate(0deg);
+  transition-delay: 0.04s;
+}
+
+.logo:hover > a::after,
+.logo:focus-within > a::after {
+  opacity: 1;
+  transform: translate(0, 0) scale(1) rotate(0deg);
+  transition-delay: 0.08s;
+}
+
+/* Keep menu readable/clickable */
+#menu {
+  position: relative;
+  z-index: 60;
+}
+
+/* On medium/narrow screens, use static logo */
+@media (max-width: 1150px) {
+  .nav {
+    min-height: 105px;
+    padding-top: 28px;
+  }
+
+  .logo > a {
+    font-size: 1.25rem;
+  }
+
+  .logo::before,
+  .logo::after,
+  .logo > a::after {
+    display: none;
+  }
+}
+
+/* Mobile */
+@media (max-width: 760px) {
+  .logo > a {
+    font-size: 1.15rem;
+  }
+}
+
+/* Accessibility */
+@media (prefers-reduced-motion: reduce) {
+  .logo::before,
+  .logo::after,
+  .logo > a::after {
+    transition: none;
+  }
+}
+
+/* Theme toggle after Contact menu item */
+#menu .menu-theme-toggle {
+  display: flex;
+  align-items: center;
+  margin-left: 0.8rem;
+  list-style: none;
+}
+
+#menu .menu-theme-toggle .logo-switches {
+  position: static !important;
+  display: flex;
+  align-items: center;
+  margin: 0 !important;
+  padding: 0;
+}
+
+#menu .menu-theme-toggle button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+/* Give the menu a little room at the far right */
+#menu {
+  gap: 1.1rem;
 }

@@ -5,3 +5,28 @@
   src="//gc.zgo.at/count.js">
 </script>
 {{- end }}
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    function moveThemeToggle() {
+      const menu = document.querySelector("#menu");
+      const toggle = document.querySelector(".logo-switches");
+
+      if (!menu || !toggle) return false;
+
+      if (menu.querySelector(".menu-theme-toggle")) return true;
+
+      const item = document.createElement("li");
+      item.className = "menu-theme-toggle";
+      item.appendChild(toggle);
+      menu.appendChild(item);
+
+      return true;
+    }
+
+    if (!moveThemeToggle()) {
+      setTimeout(moveThemeToggle, 100);
+      setTimeout(moveThemeToggle, 500);
+    }
+  });
+</script>
