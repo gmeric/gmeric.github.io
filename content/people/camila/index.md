@@ -37,6 +37,7 @@ Camila also holds honorary appointments with The University of Melbourne and Mon
 
 ## Current honorary positions
 
+- Visiting Researcher, Department of Life Sciences, **University of Bath, UK**
 - Honorary Fellow, Department of Cardiometabolic Health, **University of Melbourne, Australia**
 - Visiting Researcher, Department of Computing, **University of Turku, Finland**
 

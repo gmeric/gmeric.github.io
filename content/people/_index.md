@@ -18,7 +18,8 @@ title = "People"
   <img src="camila/camila.jpg" alt="Camila Gazolla Volpiano">
   <div>
     <strong>Camila Gazolla Volpiano</strong><br>
-    <span>Postdoctoral researcher</span>
+    <span>Postdoctoral researcher, Baker HDI, Australia</span><br>
+    <span>Visiting Researcher, University of Bath, UK
   </div>
 </a>
 
