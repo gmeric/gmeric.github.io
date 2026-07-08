@@ -11,6 +11,13 @@ An asterisk denotes joint authorship in the list below. The list includes some <
 
 # 2026
 
+{{< publication doi="10.64898/2026.07.03.26357002" >}}
+<span style="font-size:17px">**Gut microbiome signatures associated with self-reported allergic symptoms among Finnish adults.**</span><br>
+Lindgren H, Vartianen V, Muluh G, Bayal N, Pärnänen K, <u>Méric G</u>, Jousilahti P, Ruuskanen M, Knight R, Niiranen T, Havulinna AS, Salomaa V, Erawikantari PP, Lahti L. <br>
+<span style="background-color: lightsteelblue;">**medRxiv**</span>, 4 July 2026. 
+**_DOI_**: [`10.64898/2026.07.03.26357002`](https://doi.org/10.64898/2026.07.03.26357002)
+{{< /publication >}}
+
 {{< publication doi="10.64898/2026.05.20.726687" >}}
 <span style="font-size:17px">**Bacterial diversity and strain dynamics in the infant respiratory microbiome during the first year of life.**</span><br>
 <u>Volpiano CG</u>, Judd LM, Harshegyi-Hand T, Wick RR, Sly PD, Holt PG, Kusel M, Strickland DH, Inouye M, Holt KE, <u>Méric G.</u><br>
