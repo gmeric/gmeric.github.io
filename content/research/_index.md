@@ -2,11 +2,13 @@
 title = "Research"
 +++
 
-Our research combines microbiology, microbial (meta)genomics and bioinformatics to analyse large-scale human population cohorts that include a microbial component, typically metagenomic or metagenome-assembled genome datasets from the gut and other body sites. We work with large datasets as part of consortia or as collaborators, which include Nordic population cohorts and other publicly available large datasets. We also have an interest in larger, biobank-scale cohorts (such as UK Biobank) to contextualise our research.
+Our research combines **microbiology, microbial (meta)genomics and bioinformatics to analyse large-scale human gut microbiome population cohorts** and study host-microbe associations, microbe-microbe interactions and microbial function in human health and disease. 
 
-We use statistical genetics, systems genomics and ecological modelling to study host–microbe associations, microbe–microbe interactions and microbial function in human health and disease. By integrating clinical, genomic and multi-omics data, we investigate how commensals, pathobionts, pathogens and the broader gut microbiota contribute to cardiometabolic, infectious, liver and other complex diseases, with an eye to translation toward precision medicine and microbiome-targeted interventions.
+We use statistical genetics, systems genomics and ecological modelling to integrate clinical, genomic and multi-omics data and investigate **how commensals, pathobionts and the broader gut microbiota contribute to cardiometabolic, infectious, liver and other complex diseases**, with a potential interest to translation toward precision medicine and microbiome-targeted interventions. 
 
-Our scientific interests are generalist and fundamental at heart, but a few topics are of particular current interest, through led projects in the lab or collaborations:
+Our group works as part of consortia which include **Nordic population cohorts** and other publicly available large datasets. We also have an interest in larger biobank-scale cohorts to contextualise our research.
+
+Our scientific interests have always been generalist and fundamental at heart, but a few topics are of particular current interest, through led projects in the lab or collaborations:
 
 1) **Population and systems genomics of clinical, environmental and veterinary bacterial pathogens**, including evolution, transmission and host adaptation.
 2) **Human microbiome epidemiology in large cohorts**, spanning metagenomics, metagenome-assembled genomes and multi-omics integration to map microbiome–host–environment interactions.

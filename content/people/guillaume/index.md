@@ -17,9 +17,9 @@ ORCID: [0000-0001-6288-9958](https://orcid.org/0000-0001-6288-9958)<br>
 
 ## Bio
 
-I am an Associate Professor (Senior Lecturer) and group leader in human microbiome(s) and population health, working in the Department of Life Sciences at the University of Bath (United Kingdom). I hold a clinical affiliate appointment with Baker Heart & Diabetes Institute in Melbourne (Australia) and other honorary appointments at Uppsala University (Sweden) and other Australian universities (University of Melbourne & La Trobe University).
+I am an associate professor/senior lecturer and group leader in human microbiome(s) and population health in the Department of Life Sciences at the University of Bath (UK). I hold a clinical affiliate appointment with Baker Heart & Diabetes Institute in Melbourne (Australia) and other honorary appointments at Uppsala University (Sweden) and other Australian universities (University of Melbourne, La Trobe University and Monash University).
 
-My research combines microbiology, microbial (meta)genomics and bioinformatics to analyse large-scale human population cohorts that include a microbial component, typically metagenomic or metagenome-assembled genome datasets from the gut and other body sites. Our group works with large datasets as part of consortia or as collaborators, which include Nordic population cohorts and other publicly available large datasets. We also have an interest in larger, biobank-scale cohorts (such as UK Biobank) to contextualise our research.
+My research combines microbiology, microbial (meta)genomics and bioinformatics to analyse large-scale human gut microbiome population cohorts and study host-microbe associations, microbe-microbe interactions and microbial function in human health and disease. My group uses statistical genetics, systems genomics and ecological modelling to integrate clinical, genomic and multi-omics data and investigate how commensals, pathobionts and the broader gut microbiota contribute to cardiometabolic, infectious, liver and other complex diseases, with a potential interest to translation toward precision medicine and microbiome-targeted interventions. We work as part of consortia which include Nordic population cohorts and other publicly available large datasets. We also have an interest in larger biobank-scale cohorts to contextualise our research.
 
 ## Positions and qualifications
 
@@ -39,6 +39,6 @@ My research combines microbiology, microbial (meta)genomics and bioinformatics t
 - [Visiting Researcher](https://www.uu.se/en/contact-and-organisation/staff?query=N22-1081), Department of Medical Sciences-Molecular Epidemiology, **Uppsala University, Sweden**
 - Honorary Fellow, Department of Cardiometabolic Health, University of Melbourne, Australia
 - [Adjunct Senior Research Fellow](https://scholars.latrobe.edu.au/gmeric), Department of Cardiovascular Research, Translation and Implementation, La Trobe University, Melbourne, Australia
-- Affiliate Member, Milner Centre for Evolution, University of Bath, UK
+- Affiliate Member, [Centre for Evolution (CEvol)](https://www.bath.ac.uk/research-centres/centre-for-evolution/), University of Bath, UK
 
 {{< /profile >}}
