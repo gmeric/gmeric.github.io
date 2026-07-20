@@ -81,3 +81,6 @@ Content = "Microbiome(s) and population health | Host-microbe & pathogen genomic
 
   [markup.highlight]
   noClasses = false
+
+[privacy.youtube]
+privacyEnhanced = true
