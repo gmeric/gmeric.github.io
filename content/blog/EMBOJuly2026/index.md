@@ -1,7 +1,7 @@
 +++
 title = "EMBO 2026 \"Microbiomics\" workshop"
 date = "2026-07-18T09:00:00+01:00"
-draft = true
+draft = false
 categories = ["General updates"]
 ShowReadingTime = true
 ShowPostNavLinks = true
