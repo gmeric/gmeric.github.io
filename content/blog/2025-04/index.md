@@ -1,5 +1,5 @@
 +++
-title = "MR pitfalls, infant longitudinal data & E. coli CRC"
+title = "Reading list: MR pitfalls, infant longitudinal data & E. coli CRC"
 date = "2025-04-15T09:00:00+01:00"
 draft = false
 categories = ["Reading lists"]
