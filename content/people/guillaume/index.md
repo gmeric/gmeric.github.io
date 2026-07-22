@@ -41,4 +41,11 @@ My research combines microbiology, microbial (meta)genomics and bioinformatics t
 - [Adjunct Senior Research Fellow](https://scholars.latrobe.edu.au/gmeric), Department of Cardiovascular Research, Translation and Implementation, La Trobe University, Melbourne, Australia
 - Affiliate Member, [Centre for Evolution (CEvol)](https://www.bath.ac.uk/research-centres/centre-for-evolution/), University of Bath, UK
 
+## Teaching modules (Bath)
+
+- **SL12005 / SL22017**: Academic Advisor for BSc Biomedical Sciences students
+- **SL32139 / SL32140**: BSc Capstone Research Project supervision
+- **SL32163**: Microbiome and One Health (Convenor: Dr Corey Holt) - BSc 3rd year
+- **SL50169**: Advances in Mol Microbiology (Convenor: Dr Alexandria Holland) - MSc
+
 {{< /profile >}}
