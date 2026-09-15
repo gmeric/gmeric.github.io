@@ -17,3 +17,9 @@ Our scientific interests have always been generalist and fundamental at heart, b
 5) Exploring the **human gut archaeome** and its link with metabolic health
 
 We are always extremely open to collaboration. If you are interested, please get in touch.
+
+## A word on our group culture...
+
+We want our research group to be a **welcoming and inclusive safe place to work, learn and do science**. We value people with different backgrounds, identities, experiences and perspectives, and welcome students, researchers and collaborators **irrespective of who they are or where they come from.** 
+
+Everyone joining the group is expected to contribute to a respectful, supportive and collegial environment. This means treating others fairly, listening to different perspectives, communicating with consideration, and helping create a space where people feel able to ask questions, share ideas, make mistakes and develop as scientists. **Discrimination, harassment and exclusionary behaviour have no place in our group.**
