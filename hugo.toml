@@ -64,8 +64,13 @@ Content = "Microbiome(s) and population health | Host-microbe & pathogen genomic
 
   [[menu.main]]
   identifier = "collaborations"
-  name = "Collaborations"
+  name = "Collabs"
   url = "/collaborations/"
+  weight = 50
+
+  [[menu.main]]
+  name = "Join"
+  url = "/join-us/"
   weight = 50
 
   [[menu.main]]
