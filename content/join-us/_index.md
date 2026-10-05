@@ -8,6 +8,10 @@ We are routinely advertising for PhD positions, and more occasionally post-docto
 
 <span style="background-color: lightyellow;">**There are currently no postdoc positions available in the group.**</span>
 
+## Use of AI in your first e-mail of contact
+
+I have pondered about including this section here, at the risk of sounding condescending and exclusionary, but chose to carefully phrase it instead. As of 2026, the large majority of the mountain of e-mails I receive from prospective candidates at any level who want to join the lab is obviously entirely AI-generated and has no personal content. While in the group, we are supporters of an intelligent purposeful GenAI use and it has obvious excellent uses for non-native English speakers, it will also completely hide your voice, filling your message with unoriginal content. In essence, **if you don't spend any time thinking about what you will write to me and why you should be a good candidate for the group, why should I spend time reading it or believe you?** Remember that your first e-mail to an academic researcher when inquiring for positions is the only thing they will know about you. Make it count.
+
 ## Supporting applications at PhD/postdoc fellow level:
 
 Although funding is not always available, **we are always interested to support talented and motivated applicants who wish to work with us at postdoc levels**. Below are a few suggestions of funding bodies for which a particularly well suited project with a competitive candidate (good fit/expertise, good profile, good grades if applying for PhD) would be possible. <u>Please look carefully at the eligibility criteria on the corresponding websites, and think of a detailed and realistic project idea before contacting us:</u>
@@ -30,3 +34,4 @@ _PhD studentships:_
 * [Black Leaders in Diabetes PhD Studentship Scheme](https://www.diabetes.org.uk/our-research/for-researchers/applying-for-funding/funding-schemes/black-leaders-in-diabetes-phd-studentship-scheme)
 
 If you believe your project could be of interest to us, or would like support for a relevant and suitable fellowship application you're preparing, please contact [Guillaume Méric](/contact/).
+

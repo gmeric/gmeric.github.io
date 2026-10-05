@@ -33,6 +33,26 @@ title = "People"
   </div>
 </div>
 
+<div class="person-card" href="https://www.marqueslab.com/people">
+  <div class="person-avatar">EP</div>
+  <div>
+    <strong>Ella Passell</strong><br>
+    <span>Undergraduate student</span><br>
+    <span>Final year BSc Biology</span><br>
+    <span>University of Bath, UK</span>
+  </div>
+</div>
+
+<div class="person-card" href="https://www.marqueslab.com/people">
+  <div class="person-avatar">MS</div>
+  <div>
+    <strong>Maisy Southgate</strong><br>
+    <span>Undergraduate student</span><br>
+    <span>BSc Natural Sciences (Biology w/ Pharmacology)</span><br>
+    <span>University of Bath, UK</span>
+  </div>
+</div>
+
 </div>
 
 ---

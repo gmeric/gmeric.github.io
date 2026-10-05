@@ -2,6 +2,14 @@
 title = "Research"
 +++
 
+## A foreword on our group culture...
+
+We want our research group to be a **welcoming and inclusive safe place to work, learn and do science**. We value people with different backgrounds, identities, experiences and perspectives, and welcome students, researchers and collaborators **irrespective of who they are or where they come from.** 
+
+Everyone joining the group is expected to contribute to a respectful, supportive and collegial environment. This means treating others fairly, listening to different perspectives, communicating with consideration, and helping create a space where people feel able to ask questions, share ideas, make mistakes and develop as scientists. **Discrimination, harassment and exclusionary behaviour have no place in our group.**
+
+## Research themes
+
 Our research combines **microbiology, microbial (meta)genomics and bioinformatics to analyse large-scale human gut microbiome population cohorts** and study host-microbe associations, microbe-microbe interactions and microbial function in human health and disease. 
 
 We use statistical genetics, systems genomics and ecological modelling to integrate clinical, genomic and multi-omics data and investigate **how commensals, pathobionts and the broader gut microbiota contribute to cardiometabolic, infectious, liver and other complex diseases**, with a potential interest to translation toward precision medicine and microbiome-targeted interventions. 
@@ -18,8 +26,3 @@ Our scientific interests have always been generalist and fundamental at heart, b
 
 We are always extremely open to collaboration. If you are interested, please get in touch.
 
-## A word on our group culture...
-
-We want our research group to be a **welcoming and inclusive safe place to work, learn and do science**. We value people with different backgrounds, identities, experiences and perspectives, and welcome students, researchers and collaborators **irrespective of who they are or where they come from.** 
-
-Everyone joining the group is expected to contribute to a respectful, supportive and collegial environment. This means treating others fairly, listening to different perspectives, communicating with consideration, and helping create a space where people feel able to ask questions, share ideas, make mistakes and develop as scientists. **Discrimination, harassment and exclusionary behaviour have no place in our group.**
