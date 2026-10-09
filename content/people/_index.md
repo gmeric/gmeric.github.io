@@ -48,7 +48,17 @@ title = "People"
   <div>
     <strong>Maisy Southgate</strong><br>
     <span>Undergraduate student</span><br>
-    <span>BSc Natural Sciences (Biology w/ Pharmacology)</span><br>
+    <span>Final year BSc Natural Sciences</span><br>
+    <span>University of Bath, UK</span>
+  </div>
+</div>
+
+<div class="person-card" href="https://www.marqueslab.com/people">
+  <div class="person-avatar">CP</div>
+  <div>
+    <strong>Claire Duperrex</strong><br>
+    <span>Undergraduate student</span><br>
+    <span>Final year BSc Biomedical Sciences</span><br>
     <span>University of Bath, UK</span>
   </div>
 </div>
