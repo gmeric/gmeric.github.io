@@ -11,6 +11,34 @@ An asterisk denotes joint authorship in the list below. The list includes some <
 
 # 2026
 
+{{< publication doi=" " >}}
+<span style="font-size:17px">**A multi-cohort GWAS of microbiome composition across Norway and Sweden identifies multiple new loci shaping gut microbiota composition.**</span><br>
+Ohlsson C, Quester J, Dekkers KF, Coward E, Baldanzi G, Moksnes MR, <u>Volpiano CG</u>, Pertiwi K, Grahnemo L, Lundmark P, Nethander M, Hammar U, Svensson J, Kambur O, Varotsis G, Niiranen T, Knight R, Salomaa V, <u>Méric G</u>, Kennedy B, Sayols-Baixeras S, Melander O, Engström G, Larsson SC, Smith JG, Ärnlöv J, Havulinna AS, Michaëlsson K, Hveem K, Orho-Melander M, Fall T. <br>
+<span style="background-color: lightyellow;">**Nature Genetics**</span>, (accepted). 
+**_DOI_**: [` `](https://doi.org/ )
+{{< /publication >}}
+
+{{< publication doi="10.64898/2026.11.12.26367976" >}}
+<span style="font-size:17px">**The gut microbiome and incident atherosclerotic cardiovascular events: Prospective analyses in three Swedish cohorts.**</span><br>
+Pertiwi K, Hammar U, Dekkers K, Coward E, Kambur O, Baldanzi G, Delgado-Velandia M, Sayols-Baixeras S, Yuan S, Persson P, Gabrielsson D, Miari M, <u>Volpiano CG</u>, <u>Meric G</u>, Jönsson D, Engström G, Smith JG, Michaëlsson K, Melander O, Ärnlöv J, Knight R, Hofmann R, Niiranen TJ, Havulinna AS, Salomaa V, Hveem K, Ohlsson C, Orho-Melander M, Larsson SC, Fall T.<br>
+<span style="background-color: lightsteelblue;">**medRxiv**</span>, 16 November 2026. 
+**_DOI_**: [`10.64898/2026.11.12.26367976`](https://doi.org/10.64898/2026.11.12.26367976)
+{{< /publication >}}
+
+{{< publication doi="10.64898/2026.11.12.26367973" >}}
+<span style="font-size:17px">**Gut microbiome associations with incident cardiovascular disease in Nordic populations.**</span><br>
+Wolford BN, Larsson SC, Nethander M, Lawenius L, Pertiwi K, Kambur O, Coward E, Gynnild MN, Giskeødegård GF, Åsvold BO, Grahnemo L, Erkorkmaz BA, Engström G, Smith JG, Salomaa V, Dekkers K, Ärnlöv J, Havulinna A, <u>Volpiano CG</u>, <u>Méric G</u>, Niiranen T, Orho-Melander M, Fall T, Ohlsson C, Hveem K.<br>
+<span style="background-color: lightsteelblue;">**medRxiv**</span>, 16 November 2026. 
+**_DOI_**: [`10.64898/2026.11.12.26367973`](https://doi.org/10.64898/2026.11.12.26367973)
+{{< /publication >}}
+
+{{< publication doi="10.64898/2026.11.10.26367787 " >}}
+<span style="font-size:17px">**Gut microbiome and incidence of major adverse cardiovascular events in the general population: a prospective study in five European cohorts.**</span><br>
+Kambur O, Grahnemo L, Nethander M, Pertiwi K, Dekkers KF, Smith JG, Engström G, Ärnlöv J, Orho-Melander M, Kullberg RFJ, Haak BW, Galenkamp H, van den Born B-J, Nieuwdorp M, Koponen K, <u>Méric G</u>, Knight R, Niiranen T, Hveem K, Fall T, Larsson SC, Ohlsson C, Salomaa V, Havulinna AS.<br>
+<span style="background-color: lightsteelblue;">**medRxiv**</span>, 12 November 2026. 
+**_DOI_**: [`10.64898/2026.11.10.26367787`](https://doi.org/10.64898/2026.11.10.26367787)
+{{< /publication >}}
+
 {{< publication doi="10.64898/2026.07.03.26357002" >}}
 <span style="font-size:17px">**Gut microbiome signatures associated with self-reported allergic symptoms among Finnish adults.**</span><br>
 Lindgren H, Vartianen V, Muluh G, Bayal N, Pärnänen K, <u>Méric G</u>, Jousilahti P, Ruuskanen M, Knight R, Niiranen T, Havulinna AS, Salomaa V, Erawikantari PP, Lahti L. <br>
