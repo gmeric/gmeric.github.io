@@ -11,6 +11,14 @@ An asterisk denotes joint authorship in the list below. The list includes some <
 
 # 2026
 
+{{< publication doi="10.64898/2026.05.20.726687" >}}
+<span style="font-size:17px">**Retrievable bacterial strain diversity of the infant nasopharyngeal microbiome during the first year of life.**</span><br>
+<u>Volpiano CG</u>, Judd LM, Harshegyi-Hand T, Wick R, Sly PD, Holt PG, Kusel M, Strickland DH, Inouye M, Holt K, <u>Méric G</u>.<br>
+<span style="background-color: lightyellow;">**Microbiome**</span>, (accepted). 
+**_DOI_**: [`10.64898/2026.05.20.726687`](10.64898/2026.05.20.726687)<br>
+**_Additional content_**: [bioRxiv preprint](https://doi.org/10.64898/2026.05.20.726687)
+{{< /publication >}}
+
 {{< publication doi=" " >}}
 <span style="font-size:17px">**A multi-cohort GWAS of microbiome composition across Norway and Sweden identifies multiple new loci shaping gut microbiota composition.**</span><br>
 Ohlsson C, Quester J, Dekkers KF, Coward E, Baldanzi G, Moksnes MR, <u>Volpiano CG</u>, Pertiwi K, Grahnemo L, Lundmark P, Nethander M, Hammar U, Svensson J, Kambur O, Varotsis G, Niiranen T, Knight R, Salomaa V, <u>Méric G</u>, Kennedy B, Sayols-Baixeras S, Melander O, Engström G, Larsson SC, Smith JG, Ärnlöv J, Havulinna AS, Michaëlsson K, Hveem K, Orho-Melander M, Fall T. <br>
@@ -44,13 +52,6 @@ Kambur O, Grahnemo L, Nethander M, Pertiwi K, Dekkers KF, Smith JG, Engström G,
 Lindgren H, Vartianen V, Muluh G, Bayal N, Pärnänen K, <u>Méric G</u>, Jousilahti P, Ruuskanen M, Knight R, Niiranen T, Havulinna AS, Salomaa V, Erawikantari PP, Lahti L. <br>
 <span style="background-color: lightsteelblue;">**medRxiv**</span>, 4 July 2026. 
 **_DOI_**: [`10.64898/2026.07.03.26357002`](https://doi.org/10.64898/2026.07.03.26357002)
-{{< /publication >}}
-
-{{< publication doi="10.64898/2026.05.20.726687" >}}
-<span style="font-size:17px">**Bacterial diversity and strain dynamics in the infant respiratory microbiome during the first year of life.**</span><br>
-<u>Volpiano CG</u>, Judd LM, Harshegyi-Hand T, Wick RR, Sly PD, Holt PG, Kusel M, Strickland DH, Inouye M, Holt KE, <u>Méric G.</u><br>
-<span style="background-color: lightsteelblue;">**bioRxiv**</span>, 20 May 2026. 
-**_DOI_**: [`10.64898/2026.05.20.726687`](https://doi.org/10.64898/2026.05.20.726687)
 {{< /publication >}}
 
 {{< publication doi="10.1007/s10552-026-02144-1" >}}
