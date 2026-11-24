@@ -20,6 +20,13 @@ An asterisk denotes joint authorship in the list below. The list includes some <
 {{< /publication >}}
 
 {{< publication doi=" " >}}
+<span style="font-size:17px">**Ecology and microbiomes: better together.**</span><br>
+Duncan KR, Lewin G, <u>Méric G</u>, Parkinson JE, Quinn RA, Brown JL, Brown SP. <br>
+<span style="background-color: lightyellow;">**Microbiology**</span>, (accepted). 
+**_DOI_**: [` `](https://doi.org/ )
+{{< /publication >}}
+
+{{< publication doi=" " >}}
 <span style="font-size:17px">**A multi-cohort GWAS of microbiome composition across Norway and Sweden identifies multiple new loci shaping gut microbiota composition.**</span><br>
 Ohlsson C, Quester J, Dekkers KF, Coward E, Baldanzi G, Moksnes MR, <u>Volpiano CG</u>, Pertiwi K, Grahnemo L, Lundmark P, Nethander M, Hammar U, Svensson J, Kambur O, Varotsis G, Niiranen T, Knight R, Salomaa V, <u>Méric G</u>, Kennedy B, Sayols-Baixeras S, Melander O, Engström G, Larsson SC, Smith JG, Ärnlöv J, Havulinna AS, Michaëlsson K, Hveem K, Orho-Melander M, Fall T. <br>
 <span style="background-color: lightyellow;">**Nature Genetics**</span>, (accepted). 
